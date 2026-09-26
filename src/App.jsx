@@ -211,7 +211,7 @@ const App = () => {
             </div>
           </div>
           <div style={{ textAlign: 'center' }}>
-            <h3 style={{ fontSize: '1rem', fontWeight: 600 }}>Loading 3D Roto Asset...</h3>
+            <h3 style={{ fontSize: '1rem', fontWeight: 600 }}>Loading 3D Robot Asset...</h3>
             <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: 4 }}>
               Parsing geometry & PBR textures ({loadProgress}%)
             </p>
